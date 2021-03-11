@@ -1,0 +1,60 @@
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\bin\Debug\Postgres.exe.config
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\bin\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\bin\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.csprojAssemblyReference.cache
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.Form1.resources
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.Properties.Resources.resources
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.csproj.GenerateResource.cache
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\source\repos\Postgres\Postgres\obj\Debug\Postgres.pdb
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.csprojAssemblyReference.cache
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.Form1.resources
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.Properties.Resources.resources
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.csproj.GenerateResource.cache
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.csproj.CoreCompileInputs.cache
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.exe
+E:\ChuTho\Postgres\Postgres\obj\Debug\Postgres.pdb
+E:\ChuTho\Postgres\Postgres\bin\Debug\Postgres.exe.config
+E:\ChuTho\Postgres\Postgres\bin\Debug\Postgres.exe
+E:\ChuTho\Postgres\Postgres\bin\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.csprojAssemblyReference.cache
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.Form1.resources
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.Properties.Resources.resources
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.csproj.GenerateResource.cache
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\obj\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\bin\Debug\Postgres.exe.config
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\bin\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\source\repos\Gara\Postgres\bin\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\bin\Debug\Postgres.exe.config
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\bin\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\bin\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.csprojAssemblyReference.cache
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.Form1.resources
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.Properties.Resources.resources
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.csproj.GenerateResource.cache
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\Desktop\Gara\Postgres\obj\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\bin\Debug\Postgres.exe.config
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\bin\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\bin\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.csprojAssemblyReference.cache
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.Form1.resources
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.Properties.Resources.resources
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.csproj.GenerateResource.cache
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\Documents\Gara\Postgres\obj\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\bin\Debug\Postgres.exe.config
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\bin\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\bin\Debug\Postgres.pdb
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.csprojAssemblyReference.cache
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.Form1.resources
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.Properties.Resources.resources
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.csproj.GenerateResource.cache
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.csproj.CoreCompileInputs.cache
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.exe
+C:\Users\Vu Ba Sang\Documents\Zapchasti\Postgres\obj\Debug\Postgres.pdb
